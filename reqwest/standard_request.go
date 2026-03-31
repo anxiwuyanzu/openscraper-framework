@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util/compress"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util/compress"
 	"github.com/valyala/fasthttp"
 	"io"
 	"net/http"

@@ -2,8 +2,8 @@ package metrics
 
 import (
 	"context"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/exp/watchman/common"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/exp/watchman/common"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/metric"

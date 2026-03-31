@@ -2,7 +2,7 @@ package dot
 
 import (
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util/serde"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util/serde"
 )
 
 type ISinker interface {

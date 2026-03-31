@@ -1,7 +1,7 @@
 package reqwest
 
 import (
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
 	"github.com/mcuadros/go-defaults"
 	"github.com/stretchr/testify/require"
 	"testing"

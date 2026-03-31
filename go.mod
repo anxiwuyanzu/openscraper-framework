@@ -1,4 +1,4 @@
-module github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4
+module github.com/anxiwuyanzu/openscraper-framework/v4
 
 go 1.18
 

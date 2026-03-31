@@ -3,7 +3,7 @@ package spider
 import (
 	"context"
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 	"strings"

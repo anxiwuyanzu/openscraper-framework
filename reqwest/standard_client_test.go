@@ -2,7 +2,7 @@ package reqwest
 
 import (
 	"fmt"
-	_ "github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/proxz/providers"
+	_ "github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/proxz/providers"
 	"testing"
 	"time"
 )

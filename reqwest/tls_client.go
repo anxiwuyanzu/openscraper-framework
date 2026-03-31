@@ -2,8 +2,8 @@ package reqwest
 
 import (
 	"context"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/stats"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/stats"
 	http "github.com/bogdanfinn/fhttp"
 	"github.com/bogdanfinn/fhttp/http2"
 	tls_client "github.com/bogdanfinn/tls-client"

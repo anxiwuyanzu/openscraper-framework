@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/proxz"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/spider"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/proxz"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/spider"
 	log "github.com/sirupsen/logrus"
 )
 

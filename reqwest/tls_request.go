@@ -3,7 +3,7 @@ package reqwest
 import (
 	"bytes"
 	"context"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util/compress"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util/compress"
 	http "github.com/bogdanfinn/fhttp"
 	"github.com/valyala/fasthttp"
 	"io"

@@ -3,7 +3,7 @@ package redis_ext
 import (
 	"context"
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util"
 	"github.com/go-redis/redis/v8"
 	"sync"
 )

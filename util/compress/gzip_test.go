@@ -2,7 +2,7 @@ package compress
 
 import (
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

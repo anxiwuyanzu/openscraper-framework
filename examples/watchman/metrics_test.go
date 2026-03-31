@@ -1,9 +1,9 @@
 package watchman
 
 import (
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/exp/watchman/common"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/exp/watchman/metrics"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/exp/watchman/common"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/exp/watchman/metrics"
 	"go.opentelemetry.io/otel/attribute"
 	"sync"
 	"sync/atomic"

@@ -2,8 +2,8 @@ package dot
 
 import (
 	"context"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/dnscache"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/dnscache"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util"
 	"github.com/sirupsen/logrus"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

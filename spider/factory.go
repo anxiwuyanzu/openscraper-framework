@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util"
 	"github.com/sirupsen/logrus"
 )
 

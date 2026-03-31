@@ -3,10 +3,10 @@
 package dot
 
 import (
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util/serde"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util/serde"
 	"time"
 
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util"
 	"github.com/confluentinc/confluent-kafka-go/v2/kafka"
 	_ "github.com/confluentinc/confluent-kafka-go/v2/kafka/librdkafka_vendor"
 	log "github.com/sirupsen/logrus"

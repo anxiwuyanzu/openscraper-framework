@@ -3,7 +3,7 @@ package dot
 import (
 	"context"
 	"database/sql"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/dnscache"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/dnscache"
 	"github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
 	"net"

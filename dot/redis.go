@@ -2,8 +2,8 @@ package dot
 
 import (
 	"context"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/dnscache"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/util"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/dnscache"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/util"
 	"github.com/go-redis/redis/v8"
 	"github.com/sirupsen/logrus"
 	"net"

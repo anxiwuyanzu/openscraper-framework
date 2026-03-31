@@ -2,9 +2,9 @@ package spider
 
 import (
 	"fmt"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/internal/tests"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/internal/tests"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 	"github.com/valyala/fasthttp"

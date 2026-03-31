@@ -3,8 +3,8 @@ package reqwest
 import (
 	"crypto/tls"
 	"errors"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/dot"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest/stats"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/dot"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest/stats"
 	"github.com/sirupsen/logrus"
 	"github.com/valyala/fasthttp"
 	"sync"

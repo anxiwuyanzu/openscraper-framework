@@ -1,8 +1,8 @@
 package spider
 
 import (
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/reqwest"
-	"github.com/anxiwuyanzu/openscraper-framework/spider-common-go/v4/spider/memstore"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/reqwest"
+	"github.com/anxiwuyanzu/openscraper-framework/v4/spider/memstore"
 	"github.com/sirupsen/logrus"
 )
 
