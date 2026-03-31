@@ -1,0 +1,67 @@
+# ==============================
+# Go Standard Ignore
+# ==============================
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries and profiles
+*.test
+*.out
+cover.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Dependency directories
+vendor/
+
+# ==============================
+# OS & Editor/IDE
+# ==============================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# JetBrains IDEs (Goland, IntelliJ, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Vim/Emacs swap and backup files
+*~
+*.swp
+*.swo
+
+# Claude Code/AI tools
+.claude/
+
+# ==============================
+# Project Specific (Config, Logs, Certs)
+# ==============================
+# Logs
+*.log
+
+# Environment variables and configs
+.env
+*.env
+config.yaml
+config.yml
+config.local.yaml
+
+# Certificates and Keys
+*.pem
+*.key
+
+# Project specific binaries/outputs
+healthz
+spider-common-go

@@ -1,0 +1,19 @@
+dot:
+  debug: false
+  sinker: kafka
+
+  kafka:
+    bootstrap_servers: 127.0.0.1:9092
+    queue_buffering_max_kbytes: 1000000
+  proxy:
+    zhima_acquire_ip_server: 'http://zhima-acquire-ip.cmm-crawler-intranet.k8s.limayao.com'
+    zhima_set_whitelist_uri: 'http://zhima-acquire-ip.cmm-crawler-intranet.k8s.limayao.com/zhima_white_ip?ip=%s'
+    get_local_ip_uris:
+      - test1
+      - test23
+  spider:
+    worker_num: 2
+  redis:
+    others:
+      dy: redis://127.0.0.1:3690
+      dy2: redis://127.0.0.2:3690
